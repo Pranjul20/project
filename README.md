@@ -6,7 +6,7 @@ The system uses **ORB feature detection + feature matching + homography estimati
 
 ---
 
-## 📌 Features
+Features
 - Detects a reference object using ORB keypoints
 - Matches features using BFMatcher (KNN Matching + Lowe’s Ratio Test)
 - Estimates object position using Homography (RANSAC)
@@ -18,7 +18,7 @@ The system uses **ORB feature detection + feature matching + homography estimati
 
 ---
 
-## ⚙️ Requirements
+Requirements
 Install dependencies:
 
 ```bash
