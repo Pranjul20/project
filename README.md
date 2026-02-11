@@ -1,4 +1,4 @@
-# OpenCV Template Object Detection & Tracking (ORB + Homography)
+# OpenCV Template Object Detection & Tracking 
 
 This project detects and tracks a given reference object (template image) in a live camera feed or a video file using **classic OpenCV techniques** (no deep learning).
 
